@@ -436,7 +436,6 @@ img {
 .social-list-link:hover .social-list-svg,
 .social-list-link:focus .social-list-svg {
   fill: #ffffff;
-  
 }
 
 /*===============end our-team===============*/
@@ -608,14 +607,14 @@ img {
 
 /*.footer-icon-link:hover .footer-svg,
 .footer-icon-link:focus .footer-svg {
-  fill: #ffffff;*/
-}
+  fill: #ffffff;
+}*/
 /*===============end footer===============*/
 
 /*===============portfolio===============*/
 
 .section-portfolio {
-  padding: 94px 0 px;
+  padding: 94px 0px;
 }
 
 .portfolio-button {
@@ -729,9 +728,7 @@ img {
 
 /*===============end portfolio===============*/
 
-
 /*===============backdrop===============*/
-
 
 .backdrop {
   position: fixed;
